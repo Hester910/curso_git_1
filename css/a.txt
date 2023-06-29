@@ -2,3 +2,4 @@ Testando atualização do clone
 enviando
 a funcionalidade
 X
+enviando a funcionalidade b 
